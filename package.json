@@ -1,5 +1,5 @@
 {
-  "name": "@termsurf/love-code",
+  "name": "@cluesurf/love-code",
   "version": "0.1.10",
   "license": "MIT",
   "main": "./host/index.js",
